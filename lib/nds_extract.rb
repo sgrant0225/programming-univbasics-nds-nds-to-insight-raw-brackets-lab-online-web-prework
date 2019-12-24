@@ -11,6 +11,7 @@ directors_totals = {}
   directors_name = nds[row_index][:name]
   directors_totals[directors_name] = 0
   movie_index = 0
+  while movie_index < nds[row_index][:movies].length
   end
   row_index += 1
 end

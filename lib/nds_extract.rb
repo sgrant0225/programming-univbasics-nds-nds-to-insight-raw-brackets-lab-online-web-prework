@@ -17,3 +17,5 @@ directors_totals = {}
   end
   row_index += 1
 end
+directors_totals
+end

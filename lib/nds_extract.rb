@@ -6,7 +6,7 @@ pp nds
 directors_totals = {}
  grand_total = 0 
  row_index = 0 
- while row_index < directors_database[:name].length do
+ while row_index < nds.length do
    puts directors_database[:name]
   
   end

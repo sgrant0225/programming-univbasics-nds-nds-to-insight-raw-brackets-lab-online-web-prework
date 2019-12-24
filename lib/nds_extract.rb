@@ -8,7 +8,7 @@ directors_totals = {}
  row_index = 0 
  while row_index < nds.length do
    binding.pry
-  directors_name = 
+  directors_name = nds[row_index]
   end
   row_index += 1
 end

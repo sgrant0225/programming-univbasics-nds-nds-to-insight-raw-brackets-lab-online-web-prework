@@ -9,7 +9,8 @@ directors_totals = {}
  while row_index < nds.length do
    binding.pry
   directors_name = nds[row_index][:name]
-  
+  directors_totals[directors_name] = 0
+  movie_index = 0
   end
   row_index += 1
 end
